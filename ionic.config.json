@@ -1,0 +1,8 @@
+{
+  "name": "holamundo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "fc92db59"
+}
